@@ -1,3 +1,14 @@
+| Requirement             | Mandatory      | Purpose              |
+| ----------------------- | -------------- | -------------------- |
+| Node.js                 | ✅ Yes          | Run Playwright       |
+| Playwright Installation | ✅ Yes          | Browser automation   |
+| package.json            | ✅ Yes          | Project dependencies |
+| playwright.config.ts    | ✅ Yes          | Test configuration   |
+| Tests + Pages Folder    | ✅ Yes          | Actual test logic    |
+| VS Code                 | 🔶 Recommended | Easier development   |
+
+Video attached for your reference.
+
 # EkkoMD – Patient Management Automation (Playwright)
 
 This project contains automated UI tests for the **EkkoMD Patient Management Web Application**.  
